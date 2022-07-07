@@ -1,0 +1,19 @@
+{
+    "name": "com.androfarsh.ai.b3",
+    "author": "AndroFARsh",
+    "displayName": "BTree",
+    "description": "BTree - Simple behaviour tree",
+    "unity": "2020.3",
+    "version": "0.0.1",
+    "keywords": [
+        "behaviourtree",
+        "ai",
+        "unity",
+        "integration"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/androfarsh/behaviourtree.git"
+    }
+}
